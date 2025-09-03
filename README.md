@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy David, estudiante de Ingeniería Informática con pasión por el desarrollo web. <br><br>🚀 Disfruto trabajando tanto en frontend como en backend, y siempre busco mejorar como desarrollador y aprender cosas nuevas...<br><br>📫 Puedes contactarme a través de [LinkedIn](www.linkedin.com/in/davidalvareziglesias) o consultar mis proyectos aquí en GitHub.<br><br>
+👋 ¡Hola! Soy David, ingeniero informático con pasión por el desarrollo web. <br><br>🚀 Disfruto trabajando tanto en frontend como en backend, y siempre busco mejorar como desarrollador y aprender cosas nuevas...<br><br>📫 Puedes contactarme a través de [LinkedIn](www.linkedin.com/in/davidalvareziglesias) o consultar mis proyectos aquí en GitHub.<br><br>
 
 
 ## 🌐 Socials:
